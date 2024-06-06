@@ -16,5 +16,7 @@ New Deaths by Country Code: Vertical bar chart to compare new deaths across coun
 
 Filters and Slicers:
 WHO Region Slicer: Allow users to filter data by different WHO regions, focusing on specific areas of interest.
+
 Interactivity: Ensure that selecting a region dynamically updates all relevant visuals to reflect data for that region.
+
 Tooltips: Provide detailed information on hover to enhance the depth of information available without cluttering the visuals.
